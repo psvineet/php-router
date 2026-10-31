@@ -341,7 +341,7 @@ chmod 777 .runtime
 
 ## 📬 Contact
 
-**Email:** [psvineet@zohomail.in](mailto:psvineet@zohomail.in)
+**Email:** ci.vps@proton.me
 
 ---
 
